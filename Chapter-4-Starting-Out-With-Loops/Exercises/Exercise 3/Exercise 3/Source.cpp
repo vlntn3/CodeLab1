@@ -10,7 +10,7 @@ int main()
     while (code != 246) // if user inputs wrong code
     {
         cout << "Access Denied\nEnter a 3-digit code: ";
-        cin >> code; // user input again
+        cin >> code; // user re-inputs
     }
     if (code == 246) // if user inputs correct code
         cout << "Access Granted" << endl;

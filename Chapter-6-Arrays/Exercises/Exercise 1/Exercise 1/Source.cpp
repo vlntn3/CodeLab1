@@ -34,7 +34,7 @@ int main()
 			ltr[2] = 'C';
 		}
 		{ // Decimals
-			double dcml[4];
+			double dcml[5];
 			dcml[0] = 1.0;
 			dcml[1] = 2.0;
 			dcml[2] = 3.0;
@@ -42,7 +42,7 @@ int main()
 			dcml[4] = 5.0;
 		}
 		{ // Tens
-			int ten[5];
+			int ten[6];
 			ten[0] = 10;
 			ten[1] = 20;
 			ten[2] = 30;
